@@ -1,0 +1,1 @@
+The code was commented in the files, not sure if I should be commenting/annotating the laboratories in Romanian or English. So far it's been a mix of both (most likely the markdown files will be in English, the code comments in Romanian)
